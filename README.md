@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KeralPatel
-- 👀 I’m interested in adventure
+- 👀 I love adventure
 - 🌱 I’m currently learning React..
