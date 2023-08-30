@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @KeralPatel
-- 👀 I love adventure
-- 🌱 I’m currently learning React..
+- 🔭 Exploring new technologies and building cool stuff
+- 🌱 Learning React
+- 📧 Email: Keralp312@gmail.com
+- 🌐 Personal Website: https://keral-portfolio.netlify.app/
